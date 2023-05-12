@@ -1,0 +1,4 @@
+To learn more about documentation
+and structuring my code
+instead of just making long random queries
+
