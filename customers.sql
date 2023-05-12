@@ -1,8 +1,7 @@
 SELECT
 customer_id, 
 name, 
-email,  
-created_at,
+email,
 MIN(created_at) AS first_order_at,
 COUNT(*) AS number_of_orders
 FROM
